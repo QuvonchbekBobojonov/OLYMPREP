@@ -8,10 +8,10 @@ Bu loyiha Django asosida yaratilgan web ilovadir. Loyiha `Python`, `Django`, va 
 
 Quyidagi dasturlar o‘rnatilgan bo‘lishi kerak:
 
-* Python `3.10+`
+* Python `3.12+`
 * pip
-* PostgreSQL (yoki boshqa DB, agar loyihada ishlatilgan bo‘lsa)
-* Git (ixtiyoriy)
+* PostgreSQL yoki Sqlite3
+* Git
 
 ---
 
