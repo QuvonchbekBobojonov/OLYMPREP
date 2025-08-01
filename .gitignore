@@ -170,13 +170,10 @@ cython_debug/
 
 */*/migrations
 assets/
-/apps/users/__init__.py
 /staticfiles/admin/js/actions.js
-/apps/users/admin.py
 /staticfiles/admin/js/vendor/select2/i18n/af.js
 /staticfiles/rest_framework/js/ajax-form.js
 /staticfiles/rest_framework/docs/js/api.js
-/apps/users/apps.py
 /staticfiles/admin/js/vendor/select2/i18n/ar.js
 /staticfiles/admin/css/autocomplete.css
 /staticfiles/admin/js/autocomplete.js
@@ -281,7 +278,6 @@ assets/
 /staticfiles/admin/js/vendor/select2/i18n/lt.js
 /staticfiles/admin/js/vendor/select2/i18n/lv.js
 /staticfiles/admin/js/vendor/select2/i18n/mk.js
-/apps/users/models.py
 /staticfiles/admin/img/gis/move_vertex_off.svg
 /staticfiles/admin/img/gis/move_vertex_on.svg
 /staticfiles/admin/js/vendor/select2/i18n/ms.js
@@ -321,7 +317,6 @@ assets/
 /staticfiles/admin/js/vendor/select2/i18n/sr.js
 /staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js
 /staticfiles/admin/js/vendor/select2/i18n/sv.js
-/apps/users/tests.py
 /staticfiles/admin/js/vendor/select2/i18n/th.js
 /staticfiles/admin/js/theme.js
 /staticfiles/admin/js/vendor/select2/i18n/tk.js
@@ -333,7 +328,6 @@ assets/
 /staticfiles/admin/js/unusable_password_field.js
 /staticfiles/admin/js/urlify.js
 /staticfiles/admin/js/vendor/select2/i18n/vi.js
-/apps/users/views.py
 /staticfiles/admin/css/widgets.css
 /staticfiles/admin/js/vendor/xregexp/xregexp.js
 /staticfiles/admin/js/vendor/xregexp/xregexp.min.js
